@@ -1,0 +1,24 @@
+# Vercel Cache & Configs
+.vercel
+
+# Dependencies
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Production Build Outputs
+frontend/dist/
+dist/
+.vercel/output/
+
+# Environment Configurations
+.env
+.env.local
+.env.development.local
+.env.production
+.env.production.local
+backend/.env
+
+# System Files
+.DS_Store
+Thumbs.db
