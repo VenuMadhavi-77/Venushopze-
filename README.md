@@ -1,4 +1,4 @@
-# VenusShopze - Savana-Style Indian E-Commerce Application
+# VenusShopz Indian E-Commerce Application
 
 A premium, full-stack MERN (MongoDB, Express.js, React, Node.js) e-commerce application designed with a colorful, trendy, high-fashion vibe (Savana-style) adapted for modern electronics.
 
